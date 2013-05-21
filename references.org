@@ -1,12 +1,15 @@
-* Introduction à Scala
+* Références
 
-** Livres
+** Introduction à Scala
+
+*** Livres
 
 - [[http://www.artima.com/shop/programming_in_scala_2ed][Programming in Scala, Second Edition]], M. Oderski et al., Artima, 2010
 - [[http://horstmann.com/scala/][Scala for the Impatients]], C. Horstmann, Addison-Wesley, 2012
 
-** En ligne
+*** En ligne
 
-- [[http://typesafe.com/platform/tools/scala][Typesafe]], contient des /ebooks/ gratuits
-- [[http://typesafe.com/platform/getstarted][Typesafe activator]]
-- [[http://www.codecommit.com/blog/scala/roundup-scala-for-java-refugee][Scala for java refugees]]
+- [[http://typesafe.com/platform/tools/scala][Typesafe]], contient des /ebooks/ gratuits, dont les premiers chapitres de /Scala for the Impatients/
+- [[http://typesafe.com/platform/getstarted][Typesafe activator]], environement complet pour débuter en Scala.
+- [[http://docs.scala-lang.org/tutorials/][Scala documentation tutorials]], Tutoriels officiels
+- [[http://www.codecommit.com/blog/scala/roundup-scala-for-java-refugee][Scala for java refugees]], excellente série d'articles mais date un peu.
