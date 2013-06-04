@@ -9,7 +9,22 @@
 
 *** En ligne
 
-- [[http://typesafe.com/platform/tools/scala][Typesafe]], contient des /ebooks/ gratuits, dont les premiers chapitres de /Scala for the Impatients/
+- [[http://typesafe.com/platform/tools/scala][Typesafe]
+, contient des /ebooks/ gratuits, dont les premiers chapitres de /Scala for the Impatients/
 - [[http://typesafe.com/platform/getstarted][Typesafe activator]], environement complet pour débuter en Scala.
 - [[http://docs.scala-lang.org/tutorials/][Scala documentation tutorials]], Tutoriels officiels
 - [[http://www.codecommit.com/blog/scala/roundup-scala-for-java-refugee][Scala for java refugees]], excellente série d'articles mais date un peu.
+
+** Programmation fonctionnelle
+
+*** Livres
+
+- [[http://www.manning.com/bjarnason/][Functional Programming in Scala]], Paul Chiusano and Rúnar Bjarnason, Manning, 2013.
+
+*** En ligne
+
+- [[https://www.coursera.org/course/progfun][Functional Programming Principles in Scala]], cours en ligne de M. Oderski.
+- [[http://apocalisp.wordpress.com/][Apocalisp]], beaucoup d'exemples en Scala et Java. Il faut chercher dans les archives.
+- [[http://www.scala-lang.org/node/111][For-comprehension]], plus d'informations sur cette construction.
+- [[http://www.codecommit.com/blog/scala/the-option-pattern][The option pattern]], comment se débarasser des =NullPointerException= une fois pour
+  toutes.
